@@ -1,0 +1,46 @@
+JAva 2 exam quiz 
+
+Choose the correct answer:
+ch1_8:4 * 4 = 
+1:6
+2:17
+3:20
+4:16
+Correct Answer is 16
+
+Choose the correct answer:
+ch1_6:2 * 2 = 
+1:8
+2:9
+3:4
+4:5
+Correct Answer is 4
+
+True or False
+ch1_10:Java Supports Multiple inheritance
+Correct Answer is false
+
+True or False
+ch1_10:Java Supports Multiple inheritance
+Correct Answer is false
+
+Fill the following blank
+ch1_3:3+3= .......
+Correct Answer is 6
+
+True or False
+ch1_10:Java Supports Multiple inheritance
+Correct Answer is false
+
+True or False
+ch1_10:Java Supports Multiple inheritance
+Correct Answer is false
+
+True or False
+ch1_9:Javascript is same as Java 
+Correct Answer is false
+
+Fill the following blank
+ch1_4:4+4=.......
+Correct Answer is 8
+

@@ -1,0 +1,19 @@
+My Quiz
+
+Fill the following blank
+ch1_1:1+1
+
+Fill the following blank
+ch1_2:5+8
+
+True or False
+ch1_3:1*5 = 7
+
+Choose the correct answer:
+ch1_4:8-1 =
+1:5
+2:3
+3:2
+4:7
+
+

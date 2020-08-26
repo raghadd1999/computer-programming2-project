@@ -1,0 +1,9 @@
+lena
+True or False
+ch1_1:1+1=2
+Correct Answer is true
+Fill the following blank
+: ch1_2:3*2= 
+Correct Answer is 6 
+Choose the correct answer:/nch1_3:1*0=/n1:0/n2:1/n3:2/n4:3 
+Correct Answer is 0 
